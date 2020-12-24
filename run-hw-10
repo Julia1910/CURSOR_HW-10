@@ -1,4 +1,4 @@
-#!/c/Program Files/Java/jdk-15.0.1/bin --source 15
+#!/c/Java/jdk-15.0.1/bin --source 15
 
 import java.util.ArrayList;
 import java.util.List;
